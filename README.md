@@ -1,0 +1,2 @@
+# Jogosultsag
+Jogosultságok beallitasa
